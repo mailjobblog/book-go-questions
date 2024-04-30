@@ -3,6 +3,8 @@
 ## 在线阅读
 https://book-go-questions.netlify.app
 
+该资料信息来源：https://github.com/golang-design/Go-Questions
+
 ## 公众号“汀风说后端”提供技术支持
 
 公众号日常更新：技术干货、工作方案实践、学习资料分享（电子书、视频）、经典面试题解析。
